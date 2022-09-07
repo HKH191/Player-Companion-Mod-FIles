@@ -1,0 +1,1 @@
+There have been a few updates to the Cayo Perico Heist that require you to replace your  Player Companion/Heists folder with the one from the zip if you have already installed the mod, if you fail to do this do Guards will appear on the island during setup 1 and finale

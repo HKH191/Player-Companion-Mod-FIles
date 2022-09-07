@@ -1,0 +1,1 @@
+XXXOutfit.ini, SwimmingOutfit.ini, StripOutfit.ini, SleepingOutfit.ini, PartyOutfit.ini, NormalOutfit.ini and CombatOutfit.ini are all use by the mod, DO NOT DELETE THESE!
